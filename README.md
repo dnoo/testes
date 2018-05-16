@@ -14,11 +14,11 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
 NDK r10e  
 https://dl.google.com/android/repository/android-ndk-r10e-windows-x86_64.zip
 
-Edit->Preferences...->External Tools の各欄へパスを通す
-https://qiita.com/relzx/items/7f8e7817c9edd11c5023
+Edit->Preferences...->External Tools の各欄へパスを通す  
+https://qiita.com/relzx/items/7f8e7817c9edd11c5023  
 https://qiita.com/shiftsphere/items/938f01c0086d601c95ca
 
-このままだとエラー吐いてビルドできないのでSDKのToolを古いものに置き換える
-https://qiita.com/niusounds/items/bcbeee622b2114b4016e
+このままだとエラー吐いてビルドできないのでSDKのToolを古いものに置き換える  
+https://qiita.com/niusounds/items/bcbeee622b2114b4016e  
 
 レッツビルド！
