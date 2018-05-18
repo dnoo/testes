@@ -22,3 +22,12 @@ https://qiita.com/shiftsphere/items/938f01c0086d601c95ca
 https://qiita.com/niusounds/items/bcbeee622b2114b4016e  
 
 レッツビルド！
+
+## これもやっておいたら超便利
+### Instant Preview
+https://qiita.com/beaa/items/05b78a60929e2105dbe3#_reference-c8a9efc748307dee91d7
+http://developer.wonderpla.net/entry/blog/engineer/daydream_instant_preview/
+https://www.orefolder.net/blog/2017/03/platform-tools/
+
+### Unityエディタ上でシミュレート
+https://qiita.com/beaa/items/aea0c6d669cf6c07bd63
